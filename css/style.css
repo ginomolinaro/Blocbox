@@ -127,6 +127,7 @@ header .hero img {
   margin:3em auto 0;
 }
 
+
 /* BUTTONS */
 .btn {
   border-radius: 4px;
@@ -248,12 +249,15 @@ header .hero img {
 .testimonials {
   padding:4em 0;
   text-align: center;
+  position: relative;
+  top: 20px;
 }
 .testimonials h2 {
   color:#3498DB;
 }
 .testimonials ul li {
   list-style-type: none;
+
 }
 .testimonials blockquote {
   color:#FFFFFF;
