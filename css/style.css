@@ -405,7 +405,7 @@ footer .logo{
  /* LEFT NAVBAR SETTINGS */
 .left-nav .settings {
   position:absolute;
-  background:#22303E;
+  background:#1F0E34;
   width:100%;
   bottom:0;
   left:0;
@@ -427,7 +427,7 @@ footer .logo{
   margin:0 0 0 10px;
 }
 .left-nav .settings a {
-  color:#FFFFFF;
+  color:#F7CB1B;
   text-decoration: none;
   text-align: right;
   float: right;
@@ -450,7 +450,7 @@ footer .logo{
   font-weight: 100;
   margin:0 0 30px;
   font-size: 36px;
-  color: #3498DB;
+  color: #FFFFFF;
   line-height: 44px;
   float: left;
   display:inline-block;
