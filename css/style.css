@@ -355,7 +355,7 @@ footer .logo{
 
  /* DASHBOARD */
  .dashboard {
-   background:#8F7CA7;
+   background:#FFFFFF;
  }
  .left-nav {
    height: 100vh;
@@ -450,7 +450,7 @@ footer .logo{
   font-weight: 100;
   margin:0 0 30px;
   font-size: 36px;
-  color: #FFFFFF;
+  color: #1F0E34;
   line-height: 44px;
   float: left;
   display:inline-block;
@@ -463,6 +463,7 @@ footer .logo{
   margin:0 2% 25px;
   float:left;
   display:block;
+
 }
 .item-box {
   display:block;
@@ -554,3 +555,8 @@ footer .logo{
     line-height: 18px;
     margin:5px 0 0;
   }
+
+  /* selected link */
+a:active {
+    color: #A177A1;
+}
