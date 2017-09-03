@@ -147,7 +147,7 @@ header .hero img {
   display:block;
   position:relative;
   background: #452C59;
-  padding: 80px;
+  padding: 5px;
 }
 .benefits ul {
   margin: 0 auto;
@@ -252,6 +252,7 @@ header .hero img {
 
 /* TESTIMONIALS */
 .testimonials {
+  margin: -1em;
   padding: 0px;
   text-align: center;
   background: #452C59;
